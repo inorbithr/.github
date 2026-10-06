@@ -1,5 +1,11 @@
 <p align="center">
-  <a href="https://inorbit.hr"><img src="https://inorbit.hr/io/ready-transparent.svg" alt="Io, InOrbit's mark" width="72" height="72"></a>
+  <a href="https://inorbit.hr">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inorbithr/.github/main/.github/assets/logo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inorbithr/.github/main/.github/assets/logo-light.svg">
+      <img alt="InOrbit logo: the InOrbit mark" src="https://raw.githubusercontent.com/inorbithr/.github/main/.github/assets/logo-light.svg" width="88" height="88">
+    </picture>
+  </a>
 </p>
 
 <h1 align="center">InOrbit</h1>
