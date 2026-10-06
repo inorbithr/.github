@@ -1,17 +1,6 @@
-<p align="center">
-  <a href="https://inorbit.hr">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inorbithr/.github/main/.github/assets/logo-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inorbithr/.github/main/.github/assets/logo-light.svg">
-      <img alt="InOrbit logo: the InOrbit mark" src="https://raw.githubusercontent.com/inorbithr/.github/main/.github/assets/logo-light.svg" width="88" height="88">
-    </picture>
-  </a>
-</p>
-
-<h1 align="center">InOrbit</h1>
+<p align="center"><a href="https://inorbit.hr"><img alt="InOrbit: AI engineering that has to prove its work. The loop from understand to evidence, and the platform, SDK and CLI, agent and Trails" src="https://raw.githubusercontent.com/inorbithr/.github/main/.github/assets/social-preview.png" width="100%"></a></p>
 
 <p align="center">
-  <b>AI engineering that has to prove its work.</b><br>
   Every change ends in evidence someone else can check without trusting the model that made it.
 </p>
 
