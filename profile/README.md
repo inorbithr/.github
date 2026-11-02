@@ -5,30 +5,44 @@
   </picture>
 </a></p>
 
+<h3 align="center">Engineering doesn't stop at code.</h3>
+
+<p align="center">
+  One workspace for people, AI agents, and the systems they build and operate.<br>
+  Give agents context and memory. Coordinate their work. Control execution. Verify outcomes with evidence.
+</p>
+
 <p align="center">
   <a href="https://inorbit.hr">inorbit.hr</a> ·
   <a href="https://developers.inorbit.hr/docs/">Docs</a> ·
-  <a href="https://rfcs.inorbit.hr">Public RFCs</a> ·
+  <a href="https://inorbit.hr/open-source/">Open source</a> ·
   <a href="https://status.inorbit.hr">Status</a> ·
   <a href="mailto:reach@inorbit.hr">reach@inorbit.hr</a>
 </p>
 
 ---
 
-InOrbit is one workspace where engineers and AI agents plan, build and run software. A
-request or an incident becomes a plan, each change ships through a checked pull request and
-a person's approval, and every step keeps its evidence. It is programmable through a
-command line, SDKs, MCP and extensions, and its agent runs inside your network and only
-connects outward.
+### What InOrbit is
 
-We are a small company in Croatia, InOrbit d.o.o., working with partners before the
-general release. SOC 2 and ISO 27001 are in preparation; no audit has been completed.
+A request or an incident becomes a plan. Each change ships through a checked pull request
+and a person's approval, and every step keeps its evidence. The platform is programmable
+through a command line, SDKs, MCP and extensions, and its agent runs inside your network
+and only connects outward.
+
+InOrbit d.o.o. is a small company in Croatia, working with partners before the general
+release. SOC 2 and ISO 27001 are in preparation; no audit has been completed.
+
+<p align="center"><a href="https://status.inorbit.hr">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.inorbit.hr/v1/status/widget.svg?theme=dark">
+    <img alt="Systems and health: the live status of InOrbit's public services, from status.inorbit.hr" src="https://api.inorbit.hr/v1/status/widget.svg?theme=light" width="480">
+  </picture>
+</a><br><sub>Live from <a href="https://status.inorbit.hr">status.inorbit.hr</a></sub></p>
 
 ### Open source here
 
 The agent, the SDKs and the command line are open source; the platform is not. The
-[open source page](https://inorbit.hr/open-source/) lists them, and our public RFCs are at
-[rfcs.inorbit.hr](https://rfcs.inorbit.hr).
+[open source page](https://inorbit.hr/open-source/) lists them.
 
 | Repository | What it is | Release |
 | --- | --- | --- |
