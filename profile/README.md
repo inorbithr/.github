@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://inorbit.hr">inorbit.hr</a> ·
-  <a href="https://developers.inorbit.hr/docs/">Docs</a> ·
+  <a href="https://developers.inorbit.hr/">Developers</a> ·
   <a href="https://inorbit.hr/open-source/">Open source</a> ·
   <a href="https://status.inorbit.hr">Status</a> ·
   <a href="mailto:reach@inorbit.hr">reach@inorbit.hr</a>
@@ -24,13 +24,16 @@
 
 ### What InOrbit is
 
-A request or an incident becomes a plan. Each change ships through a checked pull request
-and a person's approval, and every step keeps its evidence. The platform is programmable
-through a command line, SDKs, MCP and extensions, and its agent runs inside your network
-and only connects outward.
-
-InOrbit d.o.o. is a small company in Croatia, working with partners before the general
-release. SOC 2 and ISO 27001 are in preparation; no audit has been completed.
+- **Change flow:** request or incident → plan → pull request → CI checks → approval by a
+  person → merge → rollout. Each step is recorded with its evidence.
+- **Interfaces:** HTTP API with server-sent events and a WebSocket stream, the `iohr`
+  command line, SDKs (Rust, TypeScript, Python, Go; C# and Java from source), an MCP
+  server and extensions.
+- **Agent:** `dataplane` runs checks inside your network over one outbound WebSocket to
+  `api.inorbit.hr`. It opens no inbound ports.
+- **Status:** pre-release, with partners. SOC 2 and ISO 27001 in preparation; no audit
+  completed.
+- **Company:** InOrbit d.o.o., Croatia.
 
 <p align="center"><a href="https://status.inorbit.hr">
   <picture>
